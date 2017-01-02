@@ -1,3 +1,3 @@
 #Day1
 	1. Settingup the basic environment
-	  * Installed the MobaXterm software
+	  1. Installed the MobaXterm software
